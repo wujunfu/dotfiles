@@ -62,7 +62,7 @@ ZSH_CUSTOM=$HOME/.zsh_custom
 plugins=(
   git
   golang
-# jenv
+  jenv
   yarn
   kubectl
   kube-ps1
@@ -75,7 +75,7 @@ plugins=(
   login
  # miniconda
   zsh-autosuggestions
-  zsh-syntax-highlighting
+ # zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh

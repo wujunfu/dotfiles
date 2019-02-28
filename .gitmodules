@@ -16,12 +16,3 @@
 [submodule ".vim/pack/minpac/opt/minpac"]
     path = .vim/pack/minpac/opt/minpac
     url = https://github.com/k-takata/minpac.git
-[submodule "/home/zhoumingjun/.local/share/fonts/adobe-fonts/source-code-pro"]
-	path = /home/zhoumingjun/.local/share/fonts/adobe-fonts/source-code-pro
-	url = https://github.com/adobe-fonts/source-code-pro.git
-[submodule "/home/zhoumingjun/.local/share/fonts/powerline/fonts"]
-	path = /home/zhoumingjun/.local/share/fonts/powerline/fonts
-	url = https://github.com/powerline/fonts.git
-[submodule "/home/zhoumingjun/.local/share/fonts/IBM/plex"]
-	path = /home/zhoumingjun/.local/share/fonts/IBM/plex
-	url = https://github.com/IBM/plex.git

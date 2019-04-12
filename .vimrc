@@ -27,6 +27,7 @@ else
   call minpac#add('tpope/vim-fugitive')
   call minpac#add('tpope/vim-repeat')
   call minpac#add('tpope/vim-surround')
+  call minpac#add('editorconfig/editorconfig-vim')
   " ...
 
   " minpac utility commands

@@ -68,6 +68,7 @@ plugins=(
   kube-ps1
   helm
   autojump
+  mvn
   # customized plugins
   goext
   android
